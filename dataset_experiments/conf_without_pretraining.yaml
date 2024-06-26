@@ -1,8 +1,0 @@
-path: C:\Users\Alessandro Pecora\Desktop\fabrizio\vine_leaf_vision\finetune-dataset
-train: images\train
-val: images\valid
-
-# Classes
-names:
-  0: healthy
-  1: black_root
